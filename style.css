@@ -148,6 +148,11 @@ div.competition div.text h3 {
   color: rgb(12,122,92);
 }
 
+.disabled {
+  pointer-events: none;
+  color: gray;
+}
+
 #piechart {
   flex: 1 1 300px;
 }
